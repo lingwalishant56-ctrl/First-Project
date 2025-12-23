@@ -1,31 +1,44 @@
-Task Manager Web Application
-Description
+🚀 Task Manager Web Application
 
-This Task Manager Web Application is developed as a minor project during a Web Development internship. It allows users to register, log in, and manage their personal tasks with deadlines and status tracking. Each user can add, update, and delete tasks through a simple and user-friendly interface.
 
-Features
 
-User registration and login
 
-Show / Hide password option
 
-Add tasks with deadlines
 
-Mark tasks as completed
+📌 Project Overview
 
-Delete tasks
+The Task Manager Web Application is a web-based system developed as a minor project during a Web Development internship.
+It enables users to efficiently manage daily tasks by providing features such as user authentication, task creation with deadlines, completion tracking, and deletion.
 
-User-specific task management
+The project follows a client–server architecture and helps in understanding full-stack web development fundamentals.
 
-Technologies Used
+✨ Key Features
 
-Frontend: HTML, CSS, JavaScript
+✔ Secure user registration and login
+✔ Show / Hide password functionality
+✔ Add tasks with deadlines
+✔ Mark tasks as completed
+✔ Delete tasks
+✔ User-specific task management
 
-Backend: Node.js
+🛠️ Technologies Used
+Frontend
 
-Database: JSON file-based storage
+HTML
 
-Project Structure
+CSS
+
+JavaScript
+
+Backend
+
+Node.js
+
+Database
+
+JSON file-based storage
+
+📁 Project Structure
 NAVIOTECH MINOR PROJECT
 ├── data
 │   └── users.json
@@ -38,11 +51,11 @@ NAVIOTECH MINOR PROJECT
 ├── server.js
 └── README.md
 
-How to Run the Application
+▶️ How to Run the Application
 
-Ensure Node.js is installed on your system
+Install Node.js on your system
 
-Download and extract the project files
+Download or clone the project repository
 
 Open the project folder in Command Prompt / Terminal
 
@@ -53,4 +66,31 @@ node .\server.js
 
 The server will start running on localhost
 
-Open a web browser and access the application through the local server
+Open a web browser to access the application
+
+📊 Outcome
+
+All CRUD operations perform successfully
+
+User data is stored and managed efficiently
+
+Clean and simple user interface
+
+Backend server runs smoothly on local host
+
+🔮 Future Enhancements
+
+Password encryption for better security
+
+Database integration (MongoDB / MySQL)
+
+Task priority levels
+
+User profile management
+
+Fully responsive UI
+
+🏁 Conclusion
+
+The Task Manager Web Application successfully meets all the requirements of a minor internship project.
+It demonstrates practical knowledge of frontend and backend development, authentication mechanisms, and task management workflows, making it a strong foundation for future full-stack projects.
