@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "username": "harry",
+      "password": "789456",
+      "tasks": [
+        {
+          "title": "Kuch ni",
+          "deadline": "",
+          "status": "Completed"
+        },
+        {
+          "title": "CODING FOR 9 HR",
+          "deadline": "",
+          "status": "Completed"
+        }
+      ]
+    },
+    {
+      "username": "arpit rawat",
+      "password": "123456",
+      "tasks": [
+        {
+          "title": "Gaming 1hr",
+          "deadline": "2025-12-14",
+          "status": "Completed"
+        }
+      ]
+    },
+    {
+      "username": "final",
+      "password": "12345678",
+      "tasks": []
+    }
+  ]
+}
